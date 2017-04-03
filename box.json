@@ -1,0 +1,24 @@
+{
+    "name":"Wunderlist",
+    "slug":"wunderlist",
+    "version":"1.0.0",
+    "author":"Matt Gifford <matt@monkehworks.com>",
+    "location":"https://github.com/coldfumonkeh/WunderlistAPI",
+    "directory":"",
+    "createPackageDirectory":"true",
+    "Homepage":"https://github.com/coldfumonkeh/WunderlistAPI",
+    "Documentation":"https://github.com/coldfumonkeh/WunderlistAPI",
+    "type":"modules",
+    "Repository":{
+        "type":"git",
+        "URL":"https://github.com/coldfumonkeh/WunderlistAPI"
+    },
+    "Bugs":"https://github.com/coldfumonkeh/WunderlistAPI/issues",
+    "shortDescription":"A ColdFusion wrapper to interact with the Wunderlist API",
+    "keywords":[
+        "wunderlist",
+        "notes",
+        "tasks",
+        "api"
+    ]
+}
