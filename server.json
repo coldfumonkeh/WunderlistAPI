@@ -1,0 +1,8 @@
+{
+    "web":{
+        "host":"wunderlist.local",
+        "http":{
+            "port":"80"
+        }
+    }
+}
