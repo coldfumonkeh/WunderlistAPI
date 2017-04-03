@@ -48,7 +48,7 @@ This wrapper will be installed into a directory called `wunderlist` and then can
 ```
 
 ### ColdBox Module
-This package also is a ColdBox module as well. The module can be configured by creating a `wunderlist configuration structure in your application configuration file: config/Coldbox.cfc with the following settings:
+This package also is a ColdBox module as well. The module can be configured by creating a `wunderlist` configuration structure in your application configuration file: config/Coldbox.cfc with the following settings:
 
 ```
 wunderlist = {
